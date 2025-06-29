@@ -1,0 +1,31 @@
+# R specific files
+.Rhistory
+.RData
+.Ruserdata
+*.rds
+*.RDS
+.Rproj.user/
+*.Rproj
+
+# Ignore specific old/backup files
+appold.R
+appv2.R
+R/ui_componentsold.R
+R/plotting_functionsold.R
+R/ui_components2.R
+
+# Pattern-based ignoring
+*old*.R
+*v2.R
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# IDE files
+.vscode/settings.json

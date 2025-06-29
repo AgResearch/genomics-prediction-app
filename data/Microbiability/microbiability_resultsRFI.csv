@@ -1,0 +1,13 @@
+"PC_Count","Trait","Microbiability","Standard_Error"
+"310","AMidIntake",0.2838,0.0375
+"606","AMidIntake",0.3827,0.0424
+"83","AMidIntake",0.2705,0.0437
+"890","AMidIntake",0.4736,0.0577
+"984","AMidIntake",0.6811,0.0745
+"GM","AMidIntake",0.6899,0.0749
+"310","ARFI",0.2925,0.0367
+"606","ARFI",0.3659,0.0417
+"83","ARFI",0.2262,0.0393
+"890","ARFI",0.4733,0.056
+"984","ARFI",0.6671,0.0733
+"GM","ARFI",0.7067,0.0719

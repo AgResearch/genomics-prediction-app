@@ -1,0 +1,31 @@
+Trait_Group,Model,Trait,Accuracy,Accuracy_SE,Bias,Bias_SE
+Methane Grass Group,G,Methane,0.159,0.081,1.04,0.631
+Methane Grass Group,GM,Methane,0.149,0.073,1.33,0.771
+Methane Grass Group,PC88,Methane,0.267,0.070,1.52,0.407
+Methane Grass Group,PC333,Methane,0.229,0.087,1.12,0.440
+Methane Grass Group,PC640,Methane,0.110,0.069,0.337,0.218
+Methane Grass Group,G,Methane ratio,0.210,0.052,1.20,0.459
+Methane Grass Group,GM,Methane ratio,0.202,0.054,1.46,0.542
+Methane Grass Group,PC88,Methane ratio,0.252,0.054,1.44,0.339
+Methane Grass Group,PC333,Methane ratio,0.212,0.070,1.02,0.296
+Methane Grass Group,PC640,Methane ratio,0.118,0.036,0.275,0.091
+Methane Grass Group,G,LWT,0.232,0.054,0.945,0.242
+Methane Grass Group,GM,LWT,0.243,0.064,1.05,0.301
+Methane Grass Group,PC88,LWT,0.162,0.088,1.25,0.816
+Methane Grass Group,PC333,LWT,0.220,0.094,1.23,0.578
+Methane Grass Group,PC640,LWT,0.178,0.090,0.541,0.286
+Methane Grass Group,G,CO2,0.123,0.028,0.716,0.178
+Methane Grass Group,GM,CO2,0.135,0.030,0.899,0.260
+Methane Grass Group,PC88,CO2,-0.0330,0.058,-0.502,1.01
+Methane Grass Group,PC333,CO2,-0.0160,0.059,-0.222,1.04
+Methane Grass Group,PC640,CO2,-0.00300,0.068,0.0110,1.16
+RFI Lucerne Group,G,RFI,0.255,0.049,0.879,0.231
+RFI Lucerne Group,GM,RFI,0.248,0.040,1.18,0.156
+RFI Lucerne Group,PC74,RFI,0.336,0.086,1.44,0.432
+RFI Lucerne Group,PC299,RFI,0.343,0.078,1.44,0.427
+RFI Lucerne Group,PC600,RFI,0.330,0.079,1.38,0.411
+RFI Lucerne Group,G,Mid intake,0.273,0.036,1.04,0.144
+RFI Lucerne Group,GM,Mid intake,0.275,0.060,1.17,0.314
+RFI Lucerne Group,PC74,Mid intake,0.258,0.043,1.65,0.342
+RFI Lucerne Group,PC299,Mid intake,0.305,0.063,2.17,0.682
+RFI Lucerne Group,PC600,Mid intake,0.280,0.031,1.98,0.315

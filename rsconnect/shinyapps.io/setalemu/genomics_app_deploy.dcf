@@ -1,0 +1,13 @@
+name: genomics_app_deploy
+title: genomics_app_deploy
+username: setalemu
+account: setalemu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14974440
+bundleId: 10527751
+url: https://setalemu.shinyapps.io/genomics_app_deploy/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: appold.R|appv2.R

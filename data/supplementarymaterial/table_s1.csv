@@ -1,0 +1,37 @@
+Trait_Group,Model,Trait,Accuracy,Accuracy_SE,Bias,Bias_SE
+Methane Grass Group,G,Methane,0.114,0.052,0.776,0.358
+Methane Grass Group,GM,Methane,0.0850,0.052,0.681,0.420
+Methane Grass Group,PC88,Methane,0.301,0.048,1.70,0.284
+Methane Grass Group,PC333,Methane,0.230,0.050,0.904,0.202
+Methane Grass Group,PC640,Methane,0.0510,0.052,0.0920,0.095
+Methane Grass Group,PC933,Methane,0.0560,0.052,0.0810,0.076
+Methane Grass Group,G,Methane ratio,0.0830,0.052,0.551,0.349
+Methane Grass Group,GM,Methane ratio,0.0630,0.052,0.472,0.396
+Methane Grass Group,PC88,Methane ratio,0.216,0.050,1.16,0.277
+Methane Grass Group,PC333,Methane ratio,0.102,0.052,0.395,0.204
+Methane Grass Group,PC640,Methane ratio,0.0250,0.053,0.00700,0.014
+Methane Grass Group,PC933,Methane ratio,0.0150,0.053,0.000,0.001
+Methane Grass Group,G,LWT,0.197,0.051,1.31,0.343
+Methane Grass Group,GM,LWT,0.192,0.051,1.24,0.336
+Methane Grass Group,PC88,LWT,0.214,0.050,1.30,0.314
+Methane Grass Group,PC333,LWT,0.122,0.052,0.485,0.208
+Methane Grass Group,PC640,LWT,0.123,0.052,0.309,0.131
+Methane Grass Group,PC933,LWT,0.213,0.050,0.637,0.154
+Methane Grass Group,G,CO2,0.0650,0.052,0.359,0.291
+Methane Grass Group,GM,CO2,0.0710,0.052,0.429,0.317
+Methane Grass Group,PC88,CO2,0.0840,0.052,1.38,0.866
+Methane Grass Group,PC333,CO2,0.0220,0.053,0.363,0.859
+Methane Grass Group,PC640,CO2,0.0450,0.053,0.800,0.930
+Methane Grass Group,PC933,CO2,0.0710,0.052,1.18,0.873
+RFI Lucerne Group,G,RFI,0.298,0.046,2.08,0.335
+RFI Lucerne Group,GM,RFI,0.247,0.047,2.47,0.489
+RFI Lucerne Group,PC74,RFI,0.374,0.043,2.40,0.301
+RFI Lucerne Group,PC299,RFI,0.380,0.043,2.81,0.344
+RFI Lucerne Group,PC600,RFI,0.387,0.043,2.96,0.355
+RFI Lucerne Group,PC889,RFI,0.396,0.042,2.91,0.340
+RFI Lucerne Group,G,Mid intake,0.262,0.047,1.42,0.264
+RFI Lucerne Group,GM,Mid intake,0.256,0.047,2.06,0.391
+RFI Lucerne Group,PC74,Mid intake,0.188,0.048,0.838,0.221
+RFI Lucerne Group,PC299,Mid intake,0.218,0.048,1.32,0.296
+RFI Lucerne Group,PC600,Mid intake,0.227,0.048,1.42,0.306
+RFI Lucerne Group,PC889,Mid intake,0.216,0.048,1.20,0.273
