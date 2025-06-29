@@ -1,4 +1,4 @@
-# R specific files
+﻿# R specific files
 .Rhistory
 .RData
 .Ruserdata
@@ -17,6 +17,7 @@ R/ui_components2.R
 # Pattern-based ignoring
 *old*.R
 *v2.R
+*2.R
 
 # System files
 .DS_Store
