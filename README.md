@@ -1,21 +1,23 @@
-﻿```markdown
 # Genomic Prediction Analysis Shiny App
 
 A comprehensive R Shiny application for analyzing genomic prediction results in livestock, specifically focusing on methane emissions and feed efficiency traits in sheep using microbiome-enhanced genomic prediction models.
 
-## 🎯 Application Overview
+## 🎯 Research Objectives
 
-This interactive web application visualizes the results of a genomic prediction study that evaluated the effectiveness of Principal Component Analysis (PCA) in reducing microbiome dimensionality while retaining essential information for improving genomic predictions.
+**Objective 1**: Evaluate PCA effectiveness in reducing rumen microbiome data dimensionality while retaining essential biological information.
+
+**Objective 2**: Assess whether incorporating PCA-reduced microbiome data as intermediate traits in Neural Network GBLUP improves genomic prediction accuracy for methane emissions and feed efficiency traits.
 
 ## 🚀 Live Application
 
-Access the live application at: https://setalemu.shinyapps.io/genomics_app_deploy/
+Access the interactive application at: https://setalemu.shinyapps.io/genomics_app_deploy/
 
 ## 📋 Features
 
 - Interactive visualizations of PCA analysis
 - Microbiability estimates across PC thresholds  
-- Genomic prediction results (Train-Test and Five-Fold)
+- Genomic prediction results (Train-Test and Five-Fold validation)
+- Model comparisons (G, GM, NN-GBLUP)
 - Downloadable plots and supplementary materials
 - Comprehensive data tables
 
