@@ -1,6 +1,6 @@
 # Genomic Prediction Analysis Shiny App
 
-A comprehensive R Shiny application for analyzing genomic prediction results in livestock, specifically focusing on methane emissions and feed efficiency traits in sheep using microbiome-enhanced genomic prediction models.
+An interactive R Shiny application for analyzing genomic prediction results in sheep, focusing on methane emissions and feed efficiency traits using microbiome-enhanced genomic prediction models.
 
 ## 🎯 Research Objectives
 
